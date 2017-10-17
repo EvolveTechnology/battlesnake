@@ -1,0 +1,11 @@
+{
+  "name": "node-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",  
+  "author": "",
+  "license": "ISC",
+  "dependencies": {    
+    "restify": "^6.0.1"
+  }
+}
