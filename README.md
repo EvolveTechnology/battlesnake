@@ -17,10 +17,10 @@ Of course!
 1. Create (or reuse) an ssh key.
 2. Send the public part to joakim.gustin@evolvetechnology.se or niklas.ingholt@evolvetechnology.se
 3. Your project needs to be a git repository. Doesn't need to be pushed anywhere just for local development.
-4. Add our game server as remote: `git remote add dokku dokku@battlesnake.evolvetechnology.se:LAGNAMN` och ersätt med ditt lagnamn.
+4. Add our game server as remote: `git remote add dokku dokku@battlesnake.evolvetechnology.se:TEAMNAME` and replace with your team name.
 5. Try to deploy with `git push dokku master`
 
-[battlesnake.evolvetechnology.se](http://battlesnake.evolvetechnology.se/)
+Our server is located at the following address [battlesnake.evolvetechnology.se](http://battlesnake.evolvetechnology.se/).
 
 ## Evolve?
 
