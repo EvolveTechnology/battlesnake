@@ -12,7 +12,7 @@ These boilerplates will help you get started competing in Battlesnake.
 
 ## Can I compete against you guys?
 
-Of course! 
+Do you know what?! That would be so much fun! Just follow the following instructions and get to hacking:
 
 1. Create (or reuse) an ssh key.
 2. Send the public part to joakim.gustin@evolvetechnology.se or niklas.ingholt@evolvetechnology.se
