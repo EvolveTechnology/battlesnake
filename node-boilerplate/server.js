@@ -2,7 +2,7 @@ const restify = require('restify')
 
 const server = restify.createServer({
     name: 'Battle-Snake',
-});
+})
 
 server.use(restify.plugins.bodyParser())
 
@@ -38,4 +38,4 @@ server.post('/move', function create(req, res, next) {
 
 console.log('listening on port 5000...')
 
-server.listen(5000);
+server.listen(5000)
