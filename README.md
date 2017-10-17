@@ -10,6 +10,8 @@ These boilerplates will help you get started competing in Battlesnake.
 
 * Node [node-boilerplate](https://github.com/EvolveTechnology/battlesnake/tree/master/node-boilerplate)
 
+* .NET Core [netcore-boilerplate](https://github.com/EvolveTechnology/battlesnake/tree/master/netcore-boilerplate)
+
 ## Can I compete against you guys?
 
 Do you know what?! That would be so much fun! Just follow the following instructions and get to hacking:
