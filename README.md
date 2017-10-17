@@ -1,6 +1,4 @@
-# Battlesnake boilerplates
-
-## What is this?
+﻿# Battlesnake boilerplates
 
 BattleSnake is a programming competition. Teams of  developers build web-based AIs for the classic arcade game "Snake".
 
@@ -10,8 +8,7 @@ Multiple teams will compete on the same board at the same time, and the winner w
 
 These boilerplates will help you get started competing in Battlesnake.
 
-Node
-[node-boilerplate](https://github.com/EvolveTechnology/battlesnake/tree/master/node-boilerplate)
+* Node [node-boilerplate](https://github.com/EvolveTechnology/battlesnake/tree/master/node-boilerplate)
 
 ## Can I compete against you guys?
 
@@ -27,4 +24,4 @@ Of course!
 
 ## Evolve?
 
-We are a software company. And an investment company. Also consultants. And strategists. We are Evolve. Read more about us at [node-boilerplate](https://evolvetechnology.se).
+We are a software company. And an investment company. Also consultants. And strategists. We are Evolve. Read more about us on our [website](https://evolvetechnology.se/about/).
