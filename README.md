@@ -21,11 +21,11 @@ These boilerplates will help you get started competing in BattleSnake.
 
 Do you know what?! That would be so much fun! Just follow the following instructions and get to hacking:
 
-1. Make your snake publicly available, e.g. on Heroku. (Or if you're an Evolve employee, contact [@gust1n](https://github.com/gust1n) or [@niklasi](https://github.com/niklasi) for access to our snake server)
+1. Make your snake publicly available (e.g. on Heroku). If you're an Evolve employee, contact [@gust1n](https://github.com/gust1n) or [@niklasi](https://github.com/niklasi) for access to our snake server.
 1. Go to [battlesnake.evolvetechnology.se](http://battlesnake.evolvetechnology.se)
 1. Create a new game and add the URL of your snake as a player. A list of possible opponents can be found below.
 1. Game away, and make sure to mock us if (when) you beat us!
-1. Add your snake URL to the list below.
+1. Make a PR adding your snake URL to the list below.
 
 ## List of players
 
