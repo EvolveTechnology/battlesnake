@@ -37,6 +37,7 @@ Do you know what?! That would be so much fun! Just follow the following instruct
 * [monty](http://monty.battlesnake.evolvetechnology.se)
 * [netsnake](http://netsnake.battlesnake.evolvetechnology.se)
 * [plisken](http://plisken.battlesnake.evolvetechnology.se)
+* [redrum](http://redrum.battlesnake.evolvetechnology.se)
 
 ## Evolve?
 
